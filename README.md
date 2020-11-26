@@ -941,7 +941,7 @@ Clone the repo and run
 ```sh
 $ git clone https://github.com/davidwells/analytics
 $ cd analytics
-$ npm install && npm run setup
+$ npm run setup
 ```
 
 The above command will set up all the packages and their dependencies.
